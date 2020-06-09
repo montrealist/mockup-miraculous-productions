@@ -65,3 +65,14 @@
 .grid figure {
     cursor: inherit;
 }
+
+.tm-section-title-2.left {
+    text-align: inherit;
+}
+.tm-section-title-underline.left {
+    margin-left: 0;
+}
+
+.image-align-right {
+    text-align: right;
+}
